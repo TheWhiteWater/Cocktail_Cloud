@@ -1,0 +1,23 @@
+{
+  "drinks": [
+    {
+      "idDrink": "178336",
+      "strDrink": "Blueberry Mojito",
+      "strCategory": "Cocktail",
+      "strAlcoholic": "Alcoholic",
+      "strGlass": "Highball glass",
+      "strInstructions": "Muddle the blueberries with the other ingredients and serve in a highball glass. Garnish with mint and a half slice of lime.",
+      "strDrinkThumb": "https://www.thecocktaildb.com/images/media/drink/07iep51598719977.jpg",
+      "strIngredient1": "Dark Rum",
+      "strIngredient2": "Lime Juice",
+      "strIngredient3": "Sugar",
+      "strIngredient4": "Blueberries",
+      "strIngredient5": "Lemon-lime soda",
+      "strMeasure1": "2 shots",
+      "strMeasure2": "1 shot",
+      "strMeasure3": "Dash",
+      "strMeasure4": "Whole",
+      "strMeasure5": "Top"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Cocktail Cloud</string>
+
+    <string-array name="most_popular_bar_drinks">
+            <item>Old Fashioned</item>
+            <item>Margarita</item>
+            <item>Cosmopolitan</item>
+            <item>Negroni</item>
+            <item>Moscow Mule</item>
+            <item>Martini</item>
+            <item>Mojito</item>
+            <item>Whiskey Sour</item>
+            <item>French 75</item>
+            <item>Manhattan</item>
+            <item>Spritz</item>
+            <item>Gimlet</item>
+            <item>Sazerac</item>
+            <item>Pimm\'s Cup</item>
+            <item>Mimosa</item>
+            <item>Paloma</item>
+            <item>Sidecar</item>
+            <item>Mint Julep</item>
+            <item>Daiquiri</item>
+            <item>Dark and Stormy</item>
+            <item>Martinez</item>
+        </string-array>
+</resources>
